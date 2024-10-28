@@ -2,6 +2,8 @@
 Projeto Integrador Transdisciplinar em Engenharia de Software II 
 
 ### Documentação do Projeto - Loja de Cupcakes
+![bene bolos](https://github.com/user-attachments/assets/530857be-15c6-4ac9-a071-40483f627437)
+
 
 ---
 
